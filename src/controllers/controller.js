@@ -1,5 +1,5 @@
 const axios = require("axios")
-const API_KEY = "YOUR API KEY HERE"
+const API_KEY = "ae3cd94d98d44d05492ad845d24a3463"
 
 const Weather = require("../model/Weather")
 
